@@ -15,6 +15,7 @@ public class PalindromeNumber {
                 System.out.println("Divisible by its sum of digits");
             else
                 System.out.println("Not Divisible by its sum of digits");
+                    scr.close();
         }
     }
 
